@@ -2,7 +2,7 @@
 
 I'm Ruslan. I'm a university student from **Ukraine** with a passion for understanding how computers work at every level.
 
-My primary programming language is **Rust**, and I'm currently specializing in **LLM research** and development of **AI applications**. I know and fluent in other PLs as well.
+I'm currently specializing in **LLM research** and development of **AI applications**. I know and fluent in other PLs as well.
 
 I was also a **[GSoC](https://summerofcode.withgoogle.com/) 2024 student at [JabRef](https://github.com/JabRef)**! I was **integrating modern AI technologies** into JabRef application and learned a lot about development process in the team of professionals.
 
