@@ -1,6 +1,6 @@
 # Hi, there!
 
-I'm Ruslan. I'm a university student and intern in **[Obox Systems](https://www.obox.systems/)** from **Ukraine** with a passion for understanding how computers work at every level.
+I'm Ruslan. I'm a university student from **Ukraine** with a passion for understanding how computers work at every level.
 
 My primary programming language is **Rust**, and I'm currently specializing in **LLM research** and development of **AI applications**. I know and fluent in other PLs as well.
 
